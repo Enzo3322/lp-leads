@@ -28,23 +28,27 @@ export default function Home() {
           </p>
         </div>
         <div className="w-full flex flex-col items-center gap-10">
-          <img src="/image.png" alt="" className="rounded object-cover h-96" />
+          <img
+            src="/lp-leads/image.png"
+            alt=""
+            className="rounded object-cover h-96"
+          />
 
           <button className={btnStyles}>ENTRE EM CONTATO</button>
 
           <div className="grid md:grid-cols-3 grid-cols-1 gap-8">
             <img
-              src="/image.png"
+              src="/lp-leads/image.png"
               alt=""
               className="object-cover h-60 rounded"
             />
             <img
-              src="/image.png"
+              src="/lp-leads/image.png"
               alt=""
               className="object-cover h-60 rounded"
             />
             <img
-              src="/image.png"
+              src="/lp-leads/image.png"
               alt=""
               className="object-cover h-60 rounded"
             />
@@ -97,7 +101,7 @@ export default function Home() {
             </div>
             <div className="w-full">
               <img
-                src="/image.png"
+                src="/lp-leads/image.png"
                 alt=""
                 className="object-cover h-60 rounded"
               />
@@ -113,7 +117,7 @@ export default function Home() {
           <div className="flex gap-6 md:flex-row flex-col">
             <div className="w-full">
               <img
-                src="/image.png"
+                src="/lp-leads/image.png"
                 alt=""
                 className="object-cover h-60 rounded"
               />
@@ -145,7 +149,7 @@ export default function Home() {
             </div>
             <div className="w-full">
               <img
-                src="/image.png"
+                src="/lp-leads/image.png"
                 alt=""
                 className="object-cover h-60 rounded"
               />
