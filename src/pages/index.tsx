@@ -7,7 +7,7 @@ const inter = Lato({
 });
 
 const btnStyles =
-  "bg-blue-500 text-white md:px-[100px] md:w-auto w-full h-[50px] rounded-md";
+  "bg-blue-600 text-white md:px-[100px] md:w-auto w-full h-[50px] rounded hover:bg-blue-700 transition duration-300 ease-in-out font-bold uppercase ";
 
 export default function Home() {
   return (
